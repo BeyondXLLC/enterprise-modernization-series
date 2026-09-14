@@ -29,17 +29,14 @@ Topics include:
 
 ## Publication
 
+### Read the Complete Technical Paper
+
+The complete professionally designed publication is available in PDF format:
+
+📄 **[Download TP-001 — Understanding Legacy Data Architectures (PDF)](./BEYONDX_TP-001_Understanding_Legacy_Data_Architectures_Publication_Final_Branded_v1.2.pdf)**
+
+**Publication Edition | Version 1.0 | September 2026**
+
 **Author:** Stanley Reddy  
 Founder & Principal Modernization Architect  
 BeyondX LLC
-
-The publication PDF is available in this directory.
-
-## About BeyondX
-
-BeyondX LLC focuses on enterprise data, database, legacy, and cloud
-modernization with an engineering-first approach.
-
-**Technology with Purpose. Opportunity with Impact.**
-
-https://beyondxllc.com
