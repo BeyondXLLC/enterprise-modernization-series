@@ -34,6 +34,34 @@ Topics include:
 
 ---
 
+### TP-002 — Flattening Oracle Nested Tables for Cloud Migration
+
+**Engineering Patterns for Modernizing Oracle 19c Object-Relational Structures for Amazon Aurora MySQL and PostgreSQL**
+
+Oracle object-relational structures such as Abstract Data Types (ADTs) and nested tables can introduce significant architectural challenges when modernizing Oracle workloads for cloud-native relational database platforms.
+
+TP-002 presents engineering patterns for transforming Oracle Database 19c object-relational structures into cloud-ready relational models while preserving business meaning, relationships, integrity, application behavior, transactional consistency, and fallback capability.
+
+The methodology draws on large-scale modernization experience involving approximately **52 source tables** and approximately **3.6 TB of nested-table data**.
+
+**Key topics include:**
+- Inline ADT flattening
+- 1:1 extension flattening
+- 1:M collection flattening
+- Dependency discovery and remediation
+- Integrity and access-path preservation
+- Transactional consistency
+- Incremental synchronization and duplicate protection
+- Testing and reconciliation
+- Transitional fallback synchronization
+- Cloud migration readiness
+
+**[View TP-002 Publication](./TP-002-Flattening-Oracle-Nested-Tables-for-Cloud-Migration/)**
+
+**[Download TP-002 PDF](./TP-002-Flattening-Oracle-Nested-Tables-for-Cloud-Migration/BEYONDX_TP-002_Flattening_Oracle_Nested_Tables_Branded_Final_Publication.pdf)**
+
+---
+
 ## About BeyondX
 
 BeyondX LLC focuses on enterprise data, database, legacy, and cloud modernization using an engineering-first approach.
