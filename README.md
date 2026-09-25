@@ -60,6 +60,32 @@ The methodology draws on large-scale modernization experience involving approxim
 
 **[Download TP-002 PDF](./TP-002-Flattening-Oracle-Nested-Tables-for-Cloud-Migration/BEYONDX_TP-002_Flattening_Oracle_Nested_Tables_Branded_Final_Publication.pdf)**
 
+## TP-003 — Modernizing Oracle DATE Semantics for UTC-Ready Cloud Databases
+
+**Designing Oracle 19c to Aurora MySQL and PostgreSQL Migrations to Reduce Future Time-Zone Conversion Risk**
+
+Oracle `DATE` is deceptively simple. A single Oracle datatype may represent a calendar date, a local wall-clock value, or an actual point in time.
+
+TP-003 presents a semantic-first approach for discovering, classifying, and modernizing temporal data before migrating Oracle 19c workloads to Aurora MySQL or PostgreSQL.
+
+**Key topics include:**
+- Oracle `DATE` semantics
+- Calendar dates vs. local date/time vs. absolute instants
+- Aurora MySQL `DATE`, `DATETIME`, and `TIMESTAMP`
+- PostgreSQL temporal datatype considerations
+- UTC normalization
+- Daylight Saving Time considerations
+- AWS DMS migration-time opportunities
+- Temporal discovery and validation
+- Avoiding post-migration temporal technical debt
+
+> **Do not let the Oracle datatype determine the cloud datatype.  
+> Let the business meaning of time determine the cloud datatype.**
+
+**[View TP-003 Publication](./TP-003-Oracle-DATE-UTC-Cloud-Modernization/)**
+
+**[Download TP-003 PDF](./TP-003-Oracle-DATE-UTC-Cloud-Modernization/BeyondX_TP-003_Oracle_DATE_UTC_Cloud_Modernization.pdf)**
+
 ---
 
 ## About BeyondX
