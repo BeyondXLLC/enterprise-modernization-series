@@ -88,6 +88,40 @@ TP-003 presents a semantic-first approach for discovering, classifying, and mode
 
 ---
 
+## TP-004 — Mainframe Data Architecture: IMS
+
+**Hierarchical Discovery, Recursive Data Accountability, COBOL DML Transformation, and AI-Assisted Modernization**
+
+IMS modernization is not simply a COBOL conversion or a hierarchical-to-relational data movement exercise.
+
+TP-004 presents an engineering-first approach for discovering and transforming IMS environments by correlating database definitions, application views, data structures, program behavior, and actual usage.
+
+**Key topics include:**
+- IMS hierarchical architecture and recursive parent-child relationships
+- DBDGEN, PSBGEN, PCB, SENSEG, Segment I/O Areas, and SSAs
+- COBOL copybooks using `OCCURS` and `REDEFINES`
+- Discriminator-driven legacy record interpretation
+- Recursive IMS-to-relational data transformation
+- IMS navigational DML transformation to relational SQL and services
+- `GU`, `GN`, `GNP`, `ISRT`, `REPL`, and `DLET` access patterns
+- IMS, Db2, VSAM, COBOL, and JCL dependency analysis
+- Row, column, relationship, and data-element reconciliation
+- Behavioral-equivalence testing
+- AI-assisted discovery, analysis, transformation, and validation
+- Specialized modernization agents and ChatGPT/OpenAI as an engineering workbench
+- Engineering and client accountability
+- Evidence-driven decommissioning
+
+> **100% accounted does not necessarily mean 100% migrated.**
+>
+> **AI proposes. Engineers analyze. Evidence validates. Clients govern.**
+
+**[View TP-004 Publication](./TP-004-Mainframe-Data-Architecture-IMS/)**
+
+**[Download TP-004 PDF](./TP-004-Mainframe-Data-Architecture-IMS/BeyondX_TP-004_Mainframe_Data_Architecture_IMS.pdf)**
+
+---
+
 ## About BeyondX
 
 BeyondX LLC focuses on enterprise data, database, legacy, and cloud modernization using an engineering-first approach.
