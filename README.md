@@ -120,6 +120,42 @@ TP-004 presents an engineering-first approach for discovering and transforming I
 
 **[Download TP-004 PDF](./TP-004-Mainframe-Data-Architecture-IMS/BeyondX_TP-004_Mainframe_Data_Architecture_IMS.pdf)**
 
+### TP-005 — CA-IDMS & ADS/Online Modernization
+
+**From Network Navigation and Legacy Dialogs to Relational Cloud Architecture**
+
+CA-IDMS modernization is not simply a database conversion. Business meaning can be distributed across network records, owner/member sets, pointers, application currency, ADS/Online dialogs, COBOL programs, batch processes, and decades of navigational application behavior.
+
+TP-005 presents an engineering approach for discovering those dependencies and transforming them into modern relational and cloud architectures.
+
+The paper examines three modernization paths:
+
+- **Phased Mainframe Modernization** — CA-IDMS → Db2 z/OS; ADS/Online → COBOL/CICS with embedded SQL
+- **Application-First Hybrid Modernization** — CA-IDMS → Db2 z/OS; ADS/Online and selected COBOL logic → Java/Spring, enabling a later Db2 z/OS → Amazon Aurora PostgreSQL transition with the application largely retained
+- **Direct Cloud Modernization** — CA-IDMS → Amazon Aurora PostgreSQL; ADS/Online / COBOL → Java/Spring Boot on AWS
+
+Topics include:
+
+- CA-IDMS schemas, subschemas, areas, records, elements, sets, owners, and members
+- DBKEY, CALC, pointer-driven navigation, and navigational DML
+- OCCURS and REDEFINES transformation
+- ADS/Online application modernization
+- CA-IDMS date/time storage, semantics, timezone considerations, and migration
+- Db2 z/OS and Amazon Aurora PostgreSQL target architectures
+- Java/Spring application modernization
+- AI-assisted discovery, analysis, transformation, and validation using ChatGPT/OpenAI
+- Relationship, data, and behavioral reconciliation
+- Legacy-system decommissioning and knowledge preservation
+
+> **The unit of migration is not the IDMS record. The true unit of modernization is the business relationship.**
+
+> **Modernize the application once. Modernize the database in controlled stages.**
+
+> **Use AI to understand the legacy estate before using AI to transform it.**
+
+**[View TP-005 Publication](./TP-005-CA-IDMS-ADS-Online-Modernization/)**
+
+**[Download TP-005 PDF](./TP-005-CA-IDMS-ADS-Online-Modernization/BeyondX_TP-005_CA-IDMS_ADS-Online_Modernization.pdf)**
 ---
 
 ## About BeyondX
