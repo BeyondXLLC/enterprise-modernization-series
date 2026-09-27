@@ -156,6 +156,41 @@ Topics include:
 **[View TP-005 Publication](./TP-005-CA-IDMS-ADS-Online-Modernization/)**
 
 **[Download TP-005 PDF](./TP-005-CA-IDMS-ADS-Online-Modernization/BeyondX_TP-005_CA-IDMS_ADS-Online_Modernization.pdf)**
+
+### TP-006 — VSAM & Sequential Data Modernization
+
+**Reconstructing Legacy Data Structures for Relational, Cloud, and AI-Enabled Architectures**
+
+VSAM and sequential datasets remain foundational to many mission-critical mainframe applications. Modernizing these environments requires more than moving physical records. Business meaning must be reconstructed from COBOL copybooks, record layouts, application logic, JCL, encoding rules, access patterns, and operational dependencies.
+
+TP-006 presents an engineering approach for transforming these legacy data structures into modern relational, cloud, and AI-enabled architectures while preserving business semantics and operational continuity.
+
+Topics include:
+
+- VSAM KSDS, ESDS, and RRDS architectures
+- Sequential datasets and batch-processing patterns
+- COBOL copybooks and externally defined metadata
+- EBCDIC, COMP, COMP-3, OCCURS, and REDEFINES
+- Record-layout and business-entity reconstruction
+- Relational and cloud target architectures
+- Application, data-storage, and data-access modernization
+- AI-assisted mainframe discovery and migration
+- ChatGPT and OpenAI capabilities as modernization engineering copilots
+- Validation, reconciliation, and migration governance
+- Practitioner experience progressing from membership and insurance eligibility validation to real-time claims processing, adjudication, and real-time EOB generation
+- Leadership insight from the biblical Book of Nehemiah, Chapter 3
+- Legacy dependency elimination and decommissioning
+
+> **The file contains bytes. The copybook gives those bytes structure. The program gives that structure business meaning.**
+
+> **AI accelerates discovery. AI accelerates conversion. AI accelerates validation. Engineering judgment establishes correctness.**
+
+> **Data migration creates a copy. Dependency elimination enables decommissioning.**
+
+**[View TP-006 Publication](./TP-006-VSAM-Sequential-Data-Modernization/)**
+
+**[Download TP-006 PDF](./TP-006-VSAM-Sequential-Data-Modernization/BeyondX_TP-006_VSAM_Sequential_Data_Modernization.pdf)**
+
 ---
 
 ## About BeyondX
