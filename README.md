@@ -191,6 +191,28 @@ Topics include:
 
 **[Download TP-006 PDF](./TP-006-VSAM-Sequential-Data-Modernization/BeyondX_TP-006_VSAM_Sequential_Data_Modernization.pdf)**
 
+## TP-007 - Natural/Adabas Modernization
+
+Engineering guidance for modernizing Natural/Adabas ecosystems that include Natural applications, Adabas data structures, DDMs, COBOL, Easytrieve, I/O copybooks, batch processing, and operational and financial reporting.
+
+Key topics include:
+
+- Adabas files, ISNs, descriptors, MU fields, and Periodic Groups
+- Natural application and DDM dependencies
+- COBOL, Easytrieve, copybook, batch, and reporting dependencies
+- Adabas/Natural date representation and relational conversion
+- Relational data-model transformation
+- Migration validation and report reconciliation
+- AI-assisted modernization using ChatGPT and specialized AI agents
+- Human engineering review, security, governance, and validation
+- Dependency elimination and legacy decommissioning
+
+> AI should not replace modernization engineering - it should amplify it.
+
+[View TP-007 Publication](./TP-007-Natural-Adabas-Modernization/README.md)
+
+[Download TP-007 PDF](./TP-007-Natural-Adabas-Modernization/BeyondX_TP-007_Natural_Adabas_Modernization.pdf)
+
 ---
 
 ## About BeyondX
