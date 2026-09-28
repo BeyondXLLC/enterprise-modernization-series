@@ -27,6 +27,10 @@ Topics include:
 - SME knowledge capture and institutional-knowledge preservation
 - Evidence-based legacy-system decommissioning
 
+### Technical Paper
+
+[Download TP-008 — From Mainframe to Modern Data Platforms (PDF)](BeyondX_TP-008_V3_Publish_Ready_From_Mainframe_to_Modern_Data_Platforms.pdf)
+
 A central principle of TP-008 is:
 
 > **Migration moves data. Modernization removes dependency.**
