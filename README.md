@@ -250,6 +250,14 @@ Key topics include:
 
 [Download TP-008 PDF](./TP-008-From-Mainframe-to-Modern-Data-Platforms/BeyondX_TP-008_V3_Publish_Ready_From_Mainframe_to_Modern_Data_Platforms.pdf)
 
+### TP-009 — SAS to IBM Db2 LUW Data Modernization
+
+Modernizing a large-scale SAS-based analytics environment into a relational enterprise data platform, covering SAS data discovery, `.sas7bdat` datasets, Informatica ETL, semantic datatype conversion, high-volume loading, Db2 LUW, Integrated Data Hub architecture, validation, and AI-assisted modernization.
+
+[View TP-009](./TP-009-SAS-DB2-LUW-Data-Modernization/)
+
+[Download TP-009 PDF](./TP-009-SAS-DB2-LUW-Data-Modernization/BeyondX_TP-009_SAS_to_DB2_LUW_Modernization.pdf)
+
 ---
 
 ## About BeyondX
