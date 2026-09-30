@@ -258,6 +258,16 @@ Modernizing a large-scale SAS-based analytics environment into a relational ente
 
 [Download TP-009 PDF](./TP-009-SAS-DB2-LUW-Data-Modernization/BeyondX_TP-009_SAS_to_DB2_LUW_Modernization.pdf)
 
+### TP-010 — Oracle Exadata to Amazon Aurora MySQL Modernization
+
+Large-scale modernization of an approximately 50 TB mission-critical Oracle 19c database running on Oracle Exadata to Amazon Aurora MySQL 8.0, while preserving more than three decades of accumulated business capability.
+
+The paper covers AWS SCT-assisted discovery, Oracle nested-table flattening, datatype and behavioral conversion, partitioning and key redesign, sequence modernization, AWS DMS Full Load and CDC, very-large-table and LOB migration, Reverse CDC fallback, performance engineering, Python-assisted migration auditing, application integration, AI-assisted engineering using ChatGPT, cutover, stabilization, and legacy-platform retirement.
+
+[View TP-010 Publication](./TP-010-Oracle-Exadata-Aurora-MySQL-Modernization/)
+
+[Download TP-010 PDF](./TP-010-Oracle-Exadata-Aurora-MySQL-Modernization/BeyondX_TP-010_Oracle-Exadata-to-Aurora-MySQL-Modernization.pdf)
+
 ---
 
 ## About BeyondX
